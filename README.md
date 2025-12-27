@@ -39,7 +39,7 @@ This version is:
 ✔️ Interview-ready  
 ✔️ GitHub-friendly  
 
-If you want an **even shorter (5–6 lines)** or **resume-ready project description**, just say 👍
+
 
 
 
